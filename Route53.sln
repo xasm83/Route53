@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Route53", "Route53\Route53.csproj", "{1C1E4720-2B00-44E9-B2CC-41A3B76F39F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1E4720-2B00-44E9-B2CC-41A3B76F39F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1E4720-2B00-44E9-B2CC-41A3B76F39F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1E4720-2B00-44E9-B2CC-41A3B76F39F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1E4720-2B00-44E9-B2CC-41A3B76F39F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
