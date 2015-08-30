@@ -1,2 +1,3 @@
 # Route53
-Amazon AWS route53 examples DNS c# .NET 
+
+This is a small Amazon AWS Route53 I worked on which can be used as an exampe of work with DNS c# .NET 
